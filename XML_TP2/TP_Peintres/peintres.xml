@@ -1,0 +1,94 @@
+<!-- Les Peintres -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<indexPeintres>
+
+    <peintre>
+        <sexe>Homme</sexe>
+        <nom>CEZANNE</nom>
+        <prenom>Paul</prenom>
+        <familleArtistique>Impressionniste</familleArtistique>
+        <Naissance>
+            <lieu>Aix-en-Provence</lieu>
+            <pays>France</pays>
+            <jour>19</jour>
+            <mois>Janvier</mois>
+            <annee>1839</annee>
+        </Naissance>
+        <Mort>
+            <lieu>Aix-en-Provence</lieu>
+            <pays>France</pays>
+            <jour>22</jour>
+            <mois>Octobre</mois>
+            <annee>1906</annee>
+        </Mort>
+        <biographie>
+        Le milieu d'origine de Cézanne est celui de la bonne bourgeoisie provinciale . Son père, propriétaire à Aix-en-Provence d'une prospère fabrique de chapeaux, vivait cependant quelque peu en marge de la société aixoise: il n'était pas marié avec la mère de son fils, une de ses anciennes ouvrières, lorsque ce dernier naquit, en 1839, et ne légalisa sa situation que cinq ans plus tard, avant de s'établir comme banquier.Cezanne fit toutes ses études à Aix, acquérant une solide culture classique....
+        </biographie>
+        <img>./imagepeintres/cezanne/portrait_cezanne.jpg</img>
+        <oeuvres>
+            <tableau>./imagepeintres/cezanne/tableau1_cezanne_garcon.jpg</tableau>
+            <tableau>./imagepeintres/cezanne/tableau2_cezanne.jpg</tableau>        
+        </oeuvres>
+    </peintre>
+
+    <peintre>
+        <sexe>Homme</sexe>
+        <nom>VAN GOGH</nom>
+        <prenom>Vincent</prenom>
+        <familleArtistique>Impressionniste</familleArtistique>
+        <Naissance>
+            <lieu>Groot-Zundert</lieu>
+            <pays>Pays-Bas</pays>
+            <jour>30</jour>
+            <mois>Mars</mois>
+            <annee>1853</annee>
+        </Naissance>
+        <Mort>
+            <lieu>Auvers-sur-Oise</lieu>
+            <pays>France</pays>
+            <jour>29</jour>
+            <mois>Juillet</mois>
+            <annee>1890</annee>
+        </Mort>
+        <biographie>
+        Fils d'un pasteur néerlandais, neveu de son homonyme Vincent Van Gogh qui co-dirigeait la firme de négoce d'art international Goupil and Cie à La Haye, Vincent, comme son frère Théo, commença par suivre la tradition familiale en juillet 1869 en entrant en apprentissage chez Goupil and Cie. Il devait y rester plus de 5 ans, à La Haye, puis dans les filiales, à Bruxelles, Londres (juin 1873 à mai 1875), Paris (jusqu'à fin 1875), ...
+        </biographie>
+        <img>./imagepeintres/vangogh/van_gogh.jpg</img>
+        <oeuvres>
+            <tableau>./imagepeintres/vangogh/tableau1_vangogh_fritillaires.jpg</tableau>
+            <tableau>./imagepeintres/cezanne/tableau2_van_maison.jpg</tableau>        
+        </oeuvres>
+    </peintre>
+
+    <peintre>
+        <sexe>Homme</sexe>
+        <nom>MONET</nom>
+        <prenom>Claude</prenom>
+        <familleArtistique>Impressionniste</familleArtistique>
+        <Naissance>
+            <lieu>Paris</lieu>
+            <pays>France</pays>
+            <jour>14</jour>
+            <mois>Novembre</mois>
+            <annee>1840</annee>
+        </Naissance>
+        <Mort>
+            <lieu>Giverny</lieu>
+            <pays>France</pays>
+            <jour>5</jour>
+            <mois>Décembre</mois>
+            <annee>1926</annee>
+        </Mort>
+        <biographie>
+        Le milieu d'origine de Cézanne est celui de la bonne bourgeoisie provinciale . Son père, propriétaire à Aix-en-Provence d'une prospère fabrique de chapeaux, vivait cependant quelque peu en marge de la société aixoise: il n'était pas marié avec la mère de son fils, une de ses anciennes ouvrières, lorsque ce dernier naquit, en 1839, et ne légalisa sa situation que cinq ans plus tard, avant de s'établir comme banquier. Cezanne fit toutes ses études à Aix, acquérant une solide culture classique et se liant d'une profonde amitié...
+        </biographie>
+        <img>./imagepeintres/monet/monet.jpg</img>
+        <oeuvres>
+            <tableau>./imagepeintres/monet/tableau1_monet_saint_lazare.jpg</tableau>
+            <tableau>./imagepeintres/cezanne/tableau2_monet_sainte_adresse.jpg</tableau>        
+        </oeuvres>
+    </peintre>
+
+</indexPeintres>

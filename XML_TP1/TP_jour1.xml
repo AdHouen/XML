@@ -1,0 +1,96 @@
+<!-- TP 1 : Arborescence  -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<inventaire>
+    <livre>
+        <titre></titre>
+        <auteur></auteur>    
+    </livre>
+    <livre>
+        <titre></titre>
+        <auteur></auteur>    
+    </livre>
+    <livre>
+        <titre></titre>
+        <auteur></auteur>    
+    </livre>
+</inventaire>
+
+<!-- TP 2 : Un stylo rouge  -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<inventaire>
+    <nombre>Un</nombre>
+    <outil>stylo</outil>
+    <couleur>rouge</couleur>
+</inventaire>
+
+<!-- TP 3 : Une voiture bleue -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<garage>
+    <nombre F="feminin">Une</nombre>
+    <vehicule>voiture</vehicule>
+    <couleur>bleue</couleur>
+    <constructeur>Ferrari</constructeur>
+</garage>
+
+<!-- TP 4 : Collier -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bijouterie>
+    <nombre>Un</nombre>
+
+    <bijoux>collier
+        <pierre quantite="1" couleur="">diamant</pierre>
+        <pierre quantite="2" couleur="">rubis</pierre>
+        <pierre quantite="3" couleur="blanches">perles</pierre>
+        <pierre quantite="3" couleur="noires">perles</pierre>
+    </bijoux>
+</bijouterie>
+
+<!-- TP 5 : Une paire de bottes -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<inventaire>
+    <quantite F="feminin">Une</quantite>
+    <nombre complete="oui">paire</nombre>
+    <chaussure>bottes</chaussure>
+</inventaire>
+
+<!-- TP 6 : Météo -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<meteo>
+    <pays>France
+        <region>Bretagne</region>
+        <interpretation temps="calme">Temps plus calme sur ces régions</interpretation>
+        <region>Nord-Picardie</region>
+        <interpretation temps="humide">Matinée humide avec des pluies localement orageuses</interpretation>
+        <region>Auvergne</region>
+        <interpretation temps="maussade">Temps maussade avec quelques éclaircies passagères</interpretation>
+    </pays>
+</meteo>
+
+<!-- TP 7 : Partie Echec -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<competiton>
+    <jeux>Echec
+        <competiteur1>Karpov</competiteur1>
+        <competiteur2>Kasparov</competiteur2>
+        <lieu>Moscou</lieu>
+        <annee>1998</annee>
+        <coup>10ème</coup>
+        <attaquant coordonnee="E3">tour blanche</attaquant>
+        <defenseur coordonnee="E7">cavalier</defenseur>
+    </jeux>
+
+</competiton>

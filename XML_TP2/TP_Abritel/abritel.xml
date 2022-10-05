@@ -1,0 +1,61 @@
+<!-- La location -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<abritel>
+    <guadeloupe>
+        <basseterre>
+            <pointeNoire>
+
+                <hebergement>
+                    <titre>Location chalet de la mer bouillante</titre>
+                    <type>chalet</type>
+                        <composition>
+                            <distancePlage>3min</distancePlage>
+                            <locomotion>voiture</locomotion>
+                            <nbPersonne>4</nbPersonne>
+                            <nbChambres>2</nbChambres>
+                            <nbLits>5</nbLits>
+                        </composition>
+                    <annulation>14</annulation>
+                    <tarif>50</tarif>
+                    <devise>euros</devise>
+                    <etoiles>5</etoiles>
+                    <appreciation>1</appreciation>
+                    <gps>16.188853, -61.780606</gps>
+                </hebergement>
+
+                <hebergement>
+                    <titre>Jilie bas de villa avec son kiosque</titre>
+                    <type>Appartement</type>
+                        <composition>
+                            <distancePlage>5min</distancePlage>
+                            <locomotion>pied</locomotion>
+                            <nbPersonne>4</nbPersonne>
+                            <nbChambres>2</nbChambres>
+                            <nbLits>3</nbLits>
+                        </composition>
+                    <annulation>14</annulation>
+                    <tarif>71</tarif>
+                    <devise>euros</devise>
+                    <etoiles>5</etoiles>
+                    <appreciation>40</appreciation>
+                    <gps>16.232194, -61.790328</gps>
+                </hebergement>
+
+            </pointeNoire>
+        </basseterre>
+    </guadeloupe>
+</abritel>
+
+
+
+
+
+
+
+
+
+
+
+
